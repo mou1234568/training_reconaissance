@@ -1,0 +1,7 @@
+path: 'C:\Users\mleroux\Documents\projet_fin_d_année\training_reconaissance\training_reconaissance\data'
+train: 'images/train'
+val: 'images/train'
+ 
+#classes:
+nc: 1
+names: ['person']
