@@ -1,8 +1,8 @@
 task: detect
 mode: train
 model: yolo26n.pt
-data: C:\Users\mleroux\Documents\projet_fin_d_année\training_reconaissance\training_reconaissance\config.yaml
-epochs: 100
+data: C:\Users\mleroux\Documents\projet_fin_dannee\training_reconaissance\training_reconaissance\training_reconaissance\config.yaml
+epochs: 300
 time: null
 patience: 100
 batch: 16
@@ -106,4 +106,4 @@ auto_augment: randaugment
 erasing: 0.4
 cfg: null
 tracker: botsort.yaml
-save_dir: C:\Users\mleroux\Documents\projet_fin_d_année\runs\detect\train2
+save_dir: C:\Users\mleroux\Documents\projet_fin_dannee\training_reconaissance\runs\detect\train2

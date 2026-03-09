@@ -1,4 +1,4 @@
-path: 'C:\Users\mleroux\Documents\projet_fin_d_année\training_reconaissance\training_reconaissance\data'
+path: 'C:\Users\mleroux\Documents\projet_fin_dannee\training_reconaissance\training_reconaissance\training_reconaissance\data'
 train: 'images/train'
 val: 'images/train'
  
